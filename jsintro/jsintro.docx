@@ -1,0 +1,17 @@
+If we want to write js then we have to use <script> tags
+Example:
+here type we have to mention then browser can understand
+ <script type="text/javascript">
+
+    </script>
+
+
+<script> tag can use in head or body 
+
+If js is external then we have to specific mention like this:
+<script src=""></script>
+
+And in any langauge we have to print the data, In Js having 3 ways:
+1.alert(" ")
+2.Document.write()
+3.innerhtmle
